@@ -1,4 +1,4 @@
-# olá, mundo!
+# olá, mundo!!
  Primeiro repositorio versionado do curso git github
 
- repositorio criado durante uma aula aovivo!
+ repositorio criado durante uma aula aovivo!!
